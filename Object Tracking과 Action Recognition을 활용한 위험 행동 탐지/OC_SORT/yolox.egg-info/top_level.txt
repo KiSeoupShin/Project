@@ -1,0 +1,14 @@
+YOLOX_outputs
+assets
+datasets
+deploy
+docs
+exps
+motmetrics
+pretrained
+tools
+trackers
+trackeval
+utils
+videos
+yolox
