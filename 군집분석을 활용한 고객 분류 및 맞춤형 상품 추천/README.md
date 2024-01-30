@@ -1,4 +1,4 @@
-![image](https://github.com/KiSeoupShin/Project/assets/108209592/f9d02f8a-98bf-4025-bd54-7fcdc9396064)# Project
+# Project
 **군집분석을 활용한 고객 분류 및 맞춤형 상품 추천**
 
 <br/>
@@ -24,6 +24,8 @@
 
 ![image](https://github.com/KiSeoupShin/Project/assets/108209592/7bd0a29c-4af1-4d9c-a613-57a83619a4e0)
 
+<br/>
+
 #### 고객 세분화 결과
 ![image](https://github.com/KiSeoupShin/Project/assets/108209592/c04b4fe8-bfb1-430d-934f-94ab2e0e93a9)
 
@@ -34,9 +36,12 @@
 4. Useful Group
 5. Cheap & Many Group
 
+<br/>
+
 #### 그룹 별 추천 상품 목록
 ![image](https://github.com/KiSeoupShin/Project/assets/108209592/7ce88b3f-e162-4692-be62-344b6d9778b3)
 
+<br/>
 
 ## 4. 그룹 별 마케팅 방안
 #### 1. Main Group
