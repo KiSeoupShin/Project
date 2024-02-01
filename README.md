@@ -7,7 +7,7 @@
 
 <br/>
 
-2. Object Tracking과 Action Recognition을 활용한 위험 행동 탐지
+2. Object Tracking과 Action Recognition을 활용한 매장 내 위험 행동 탐지
    - Object Tracking, Action Recognition, CV, Video
 
 <br/>
